@@ -1,4 +1,4 @@
-// krslInstallation.js (v0.4)
+// krslInstallation.js (v0.5)
 //
 // Copyright (c) 2013 Krooshal (http://krooshal.com/)
 //

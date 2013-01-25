@@ -1,4 +1,4 @@
-# Krooshal Appcelerator&reg; Titanum&reg; SDK Example (v0.4)
+# Krooshal Appcelerator&reg; Titanum&reg; SDK Example (v0.5)
 
 ## To run this sample
 
