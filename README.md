@@ -2,7 +2,7 @@
 
 ##Basic Setup
 
-1. Add the `krooshal.js` to your project.
+1. Add the `krooshal.js` (from within Krooshal SDK) to your project.
 1. Add `var krooshal = require('krooshal');` to the files in which you wish to access Krooshal.
 1. Invoke `install` and `checkForUpdate` methods.
 
