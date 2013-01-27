@@ -52,7 +52,7 @@ var krslInstallation = require('krslInstallation');
 //Install Krooshal
 krslInstallation.install(YOUR_API_KEY, function() {
 	
-	//Optinally persist installationId in your app logic
+	//Optionally persist installationId in your app logic
     Ti.API.info('Krooshal installed with ' + krslInstallation.getInstallationId());
     
     //Associate attributes with this installation
